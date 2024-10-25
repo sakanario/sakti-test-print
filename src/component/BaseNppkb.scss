@@ -1,0 +1,18 @@
+.dokumen__nppkb {
+  word-break: break-word;
+  font-size: 12px;
+  font-weight: 500;
+  color: black;
+  vertical-align: top;
+  max-width: 400px;
+
+  tr {
+    td:nth-child(1) {
+      min-width: 50px;
+    }
+  }
+
+  .titik-dua {
+    width: 5px;
+  }
+}
